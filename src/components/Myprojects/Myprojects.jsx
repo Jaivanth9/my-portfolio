@@ -1,7 +1,7 @@
 import React from 'react'
 import './Myprojects.css'
 import mywork_data from '../../assets/myproject_data'
-import arrow_icon from '../../assets/arrow_icon.svg'
+import arrow_icon from '../../assets/arrow_icon-jaivanthKoppula.svg'
 import theme_pattern from '../../assets/icons.svg'
 const Myprojects = () => {
   return (
