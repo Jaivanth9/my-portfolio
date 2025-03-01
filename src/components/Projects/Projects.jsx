@@ -2,7 +2,7 @@ import React from 'react'
 import './Projects.css'
 import theme_img from '../../assets/icons.svg'
 import certification_data from '../../assets/certificate_data'
-import arrow_icon from '../../assets/arrow_icon-jaivanthKoppula.svg'
+import arrow_icon from '../../assets/arrow_icon.svg'
 const Projects = () => {
   return (
     <div id='certifications' className='projects'>
