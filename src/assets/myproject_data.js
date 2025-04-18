@@ -1,6 +1,6 @@
-import project1_img from '../assets/project_1.jpg'; // Replace with actual paths to your images
+import project1_img from '../assets/project_1.png'; // Replace with actual paths to your images
 import project2_img from '../assets/project_3.jpg'; // Replace with actual paths to your images
-import project3_img from '../assets/project_3.jpg'; // Replace with actual paths to your images
+import project3_img from '../assets/project_3.png'; // Replace with actual paths to your images
 import project4_img from '../assets/project_2.png'; // Replace with actual paths to your images
 import project5_img from '../assets/project5_img.jpeg';
 
@@ -24,12 +24,7 @@ const mywork_data = [
     w_img: project4_img,
     link:"https://github.com/Jaivanth9/Finden-website/tree/main/finden"
   },
-  {
-    w_no: 5,
-    w_name: "MyPortfolio-website",
-    w_img: project5_img,
-    link:"https://my-portfolio-nine-sepia-79.vercel.app/"
-  }
+  
 ];
 
 export default mywork_data;
